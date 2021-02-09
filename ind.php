@@ -1,18 +1,17 @@
 <?php
 $x = 56;
 $y = 74;
+$z =65;
 
-echo($x + $y);
+echo($x + $z);
 echo "<br>";
 
-echo($x - $y);
+echo($y - $z);
 echo "<br>";
 
-echo($x * $y);
+echo($z * $y);
 echo "<br>";
 
-echo($x / $y);
+echo($y / $z);
 echo "<br>";
-
-echo($x % $y);
 ?>
